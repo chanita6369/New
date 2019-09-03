@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3302d2e45eb132543b6cbcf6f2d53b03
+  - enabled: 1
+    path: Assets/Scenes/MenuSelectType.unity
+    guid: 7a10e64ff1307814cb1d877ca246eae8
+  - enabled: 1
+    path: Assets/Scenes/SpellGroup/MenuSpell.unity
+    guid: 640635eb4d94c2c45a3262748c1e3a8d
+  - enabled: 1
+    path: Assets/Scenes/SpellGroup/FruitScene.unity
+    guid: 318c24f4e627009448bdf5e181e0a90e
+  - enabled: 1
+    path: Assets/Scenes/SpellGroup/CareerScene.unity
+    guid: 6a03a2d2955ee3e428ddc5012cd16355
+  - enabled: 1
+    path: Assets/Scenes/SpellGroup/EmotionScene.unity
+    guid: d1a18bd65e075a044b8cf84231a5588c
+  - enabled: 1
+    path: Assets/Scenes/SpellGroup/PlaceScene.unity
+    guid: d0df3f92e4796b2448005718c7af5c81
+  - enabled: 1
+    path: Assets/Scenes/SpellGroup/OtherScene.unity
+    guid: 374e66aa94d47b242946da6ca8b54414
+  - enabled: 1
+    path: Assets/Scenes/LearnGroup/MenuLearning.unity
+    guid: f9d2d276575810e44b88d79ad792c539
+  - enabled: 1
+    path: Assets/Scenes/LearnGroup/FruitLearnScene.unity
+    guid: 2ef82f44b762f664c88b9bdd558227dc
+  m_configObjects: {}
